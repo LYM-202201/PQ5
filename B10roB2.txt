@@ -3,7 +3,12 @@
 // Turing Machine name (Z):
 Z = "TM1"
 // Turing Machine nodes (N):
+N(0) = "R[#]"
+N(1) = "L"
 // Turing Machine initial node (I):
-I = -1@0
+I = 0@0
 // Turing Machine edges (E):
+E(0,1) = ""
 // Turing Machine layout (ξ)
+ξ(0)=(68.00,64.00)
+ξ(1)=(160.00,64.00)
